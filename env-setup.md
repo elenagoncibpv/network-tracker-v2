@@ -10,8 +10,8 @@
 1. Go to: https://supabase.com/dashboard/project/emtkvlqseomvqphwxskz/settings/api
 2. Copy the following values:
    - **Project URL**: `https://emtkvlqseomvqphwxskz.supabase.co`
-   - **anon public key**: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVtdGt2bHFzZW9tdnFwaHd4c2t6Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTAyNzAwNjcsImV4cCI6MjA2NTg0NjA2N30.dKhkONaWDuMbL1hBlsLi6J7RDGY8u_laZ3bGjJX_4E8
-   - **service_role key**: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVtdGt2bHFzZW9tdnFwaHd4c2t6Iiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc1MDI3MDA2NywiZXhwIjoyMDY1ODQ2MDY3fQ.58y3aWxzEOZ1hnhqBkTd8dDb36CHmKtqcRxZ24Mkxhk
+   - **anon public key**: [COPY FROM SUPABASE DASHBOARD]
+   - **service_role key**: [COPY FROM SUPABASE DASHBOARD - KEEP SECRET!]
 
 ## Step 2: Create .env.local File
 
